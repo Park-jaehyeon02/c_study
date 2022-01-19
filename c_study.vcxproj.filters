@@ -16,19 +16,13 @@
     <Filter Include="소스 파일\source">
       <UniqueIdentifier>{185a0cfb-47be-42d9-8d87-45c82f4af7ad}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\source\Chapter1.DataType">
-      <UniqueIdentifier>{c3cd7832-86e0-4d23-b27b-53b87c3e3820}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\source\Chapter2.Stdio">
-      <UniqueIdentifier>{5b2573fc-f04e-4aba-a511-335d6f5d7c5c}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c_1.cpp">
-      <Filter>소스 파일\source\Chapter1.DataType</Filter>
+    <ClCompile Include="ch2%28stdio%29\c_2.cpp">
+      <Filter>소스 파일\source</Filter>
     </ClCompile>
-    <ClCompile Include="c_2.cpp">
-      <Filter>소스 파일\source\Chapter2.Stdio</Filter>
+    <ClCompile Include="ch1%28DataType%29\c_1.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
