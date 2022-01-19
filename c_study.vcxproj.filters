@@ -21,7 +21,10 @@
     <ClCompile Include="ch2%28stdio%29\c_2.cpp">
       <Filter>소스 파일\source</Filter>
     </ClCompile>
-    <ClCompile Include="ch1%28DataType%29\c_1.cpp">
+    <ClCompile Include="ch1%28DataType%29\Type_byte.cpp">
+      <Filter>소스 파일\source</Filter>
+    </ClCompile>
+    <ClCompile Include="ch1%28DataType%29\integer_type.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
