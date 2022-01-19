@@ -10,5 +10,6 @@ int main(void)
 	unsigned int f;	//4byte
 	float g;	//4byte
 	double h;	//8byte
-	printf("%f %d", i,sizeof(i));
+
+	printf("%d",sizeof(b));
 }
