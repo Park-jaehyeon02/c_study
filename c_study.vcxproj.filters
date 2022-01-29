@@ -13,18 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\source">
-      <UniqueIdentifier>{185a0cfb-47be-42d9-8d87-45c82f4af7ad}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch2%28stdio%29\c_2.cpp">
-      <Filter>소스 파일\source</Filter>
+    <ClCompile Include="ch1%28DataType%29\integer_type.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch2%28stdio%29\real_type.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ch1%28DataType%29\Type_byte.cpp">
-      <Filter>소스 파일\source</Filter>
-    </ClCompile>
-    <ClCompile Include="ch1%28DataType%29\integer_type.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
