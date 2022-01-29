@@ -2,6 +2,10 @@
 
 This is repepository for study C language 
 
-I study C by reading book as "독하게 시작하는 C 프로그래밍"
+Studying while reading a book called '독하게 시작하는 C 프로그래밍'
 
-Develope using VS 2019
+IDE : VS 2019
+
+Note
+
+1. Update readme & start recording & rename file name & change this repository to public !2022-01-29
