@@ -142,9 +142,11 @@
     <ClCompile Include="ch1%28DataType%29\Type_byte.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="ch1%28DataType%29\integer_type.cpp" />
-    <ClCompile Include="ch2%28stdio%29\real_type.cpp">
+    <ClCompile Include="ch1(DataType)\integer_type.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="ch2%28stdio%29\real_type.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
