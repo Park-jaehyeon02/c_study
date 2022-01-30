@@ -24,6 +24,9 @@
     <ClCompile Include="ch1(DataType)\integer_type.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch1(DataType)\character.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
