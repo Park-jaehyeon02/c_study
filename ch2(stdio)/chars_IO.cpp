@@ -15,11 +15,5 @@ int main(void)
 	printf("당신의 이름은 ");
 	puts(szName);
 	puts("입니다.");
-	
-	//need to add
-	printf("%c %d %o %u %x %X %e %E %f %g %p %s");
-	printf("\a \b \f \n \r \t \v \\ \? \' \" \ooo \xhh");
-	// '와 ?는 이제 그냥 써도 인식이 되도록 바뀜
-	printf("' ?");
 	return 0;
 }
