@@ -9,5 +9,6 @@ int main(void)
 
 	printf("%f\n", 123.45); //double
 	printf("%lf\n", 123.45); //long double
+
 	return 0;
 }
