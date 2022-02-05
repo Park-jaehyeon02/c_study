@@ -45,6 +45,9 @@
     <ClCompile Include="ch2(stdio)\longlongint01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch2(stdio)\forma01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
