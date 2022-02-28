@@ -72,6 +72,9 @@
     <ClCompile Include="ch2(stdio)\scanfage02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch3(operator)\operator01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
